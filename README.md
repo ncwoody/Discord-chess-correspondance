@@ -11,7 +11,7 @@ When using the bot, the !help command will list what it does
 
 If you want to use it, make sure to enter in the token for your bot at the bottom on the code
 
-My to do list for the bot:<br />
-  Allow the bot to distinguish which user won<br />
-  Have the bot keep track of the current players and only allow them to participate<br />
-  Make the AI better
+My to do list for the bot:
+1. Allow the bot to distinguish which user won
+2. Have the bot keep track of the current players and only allow them to participate
+3. Make the AI better
